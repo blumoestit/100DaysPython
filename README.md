@@ -1,6 +1,6 @@
 # 100DaysPython
 
-Mastering Python by building 100 projects in 100 Days. 
+Mastering Python by building 100 projects in 100 days. 
 
 ### Day 1
 
