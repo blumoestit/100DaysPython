@@ -1,8 +1,8 @@
 # 100DaysPython
 
-Mastering Python by building 100 projects in 100 days. 
+Mastering Python by building 100 small projects. 
 
-Based on *The Complete Python Pro Bootcamp* by Dr. Angela Yu
+Based on *The Complete Python Pro Bootcamp* by Dr. Angela Yu and own experience!
 
 ### Day 1
 Band Name Generator
@@ -11,3 +11,8 @@ Band Name Generator
 
 ### Day 3
 
+### Day 4
+
+### Day 5
+
+### Day 6
